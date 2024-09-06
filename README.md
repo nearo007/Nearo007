@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou o Nearo007 👋
 
-<!--
-**Nearo007/Nearo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor com interesse em tecnologia e aprendizado constante. Tenho um conjunto de habilidades variadas que aplico em projetos de backend, frontend e banco de dados.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação**: Python, Java, JavaScript
+- **Desenvolvimento Web**: HTML, CSS, Django
+- **Banco de Dados**: PostgreSQL, MongoDB
+
+## 🚀 O que estou fazendo
+
+Atualmente, estou trabalhando em projetos de desenvolvimento web e APIs, explorando integrações entre frontend e backend com uma arquitetura robusta e eficiente.
+
+## 🌱 Sempre aprendendo
+
+Busco constantemente aprimorar minhas habilidades, com foco em novas tecnologias e boas práticas de desenvolvimento. Acredito no poder da colaboração e do código aberto para criar soluções inovadoras.
