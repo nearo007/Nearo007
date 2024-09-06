@@ -1,4 +1,4 @@
-# Olá, sou o Nearo007 👋
+# Olá, sou o Leandro 👋
 
 💻 Desenvolvedor com interesse em tecnologia e aprendizado constante. Tenho um conjunto de habilidades variadas que aplico em projetos de backend, frontend e banco de dados.
 
