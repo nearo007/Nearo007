@@ -15,3 +15,7 @@ Atualmente, estou trabalhando em projetos de desenvolvimento web e APIs, explora
 ## 🌱 Sempre aprendendo
 
 Busco constantemente aprimorar minhas habilidades, com foco em novas tecnologias e boas práticas de desenvolvimento. Acredito no poder da colaboração e do código aberto para criar soluções inovadoras.
+
+## 🔗 Conecte-se comigo
+
+- [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil)
