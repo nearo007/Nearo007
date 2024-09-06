@@ -18,4 +18,4 @@ Busco constantemente aprimorar minhas habilidades, com foco em novas tecnologias
 
 ## 🔗 Conecte-se comigo
 
-- [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/))
