@@ -4,7 +4,7 @@
 
 ## 🛠️ Habilidades
 
-- **Linguagens de Programação**: Python, Java, JavaScript
+- **Linguagens de Programação**: Python, C#, JavaScript
 - **Desenvolvimento Web**: HTML, CSS, Django
 - **Banco de Dados**: PostgreSQL, MongoDB
 
