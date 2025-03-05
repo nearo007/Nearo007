@@ -1,22 +1,22 @@
-# Olá, me chamo Leandro 👋
+# Leandro de Araujo
 
-💻 Desenvolvedor com interesse em tecnologia e aprendizado constante. Tenho um conjunto de habilidades variadas que aplico em projetos de backend, frontend e banco de dados.
+Desenvolvedor com experiência em backend, frontend e bancos de dados.
 
-## 🛠️ Habilidades
+## Habilidades
 
 - **Linguagens de Programação**: Python, C#, JavaScript
 - **Desenvolvimento Web**: HTML, CSS, Django
 - **Banco de Dados**: PostgreSQL, MongoDB
 
-## 🚀 O que estou fazendo
+## Experiência e Projetos
 
-Atualmente, estou trabalhando em projetos de desenvolvimento web e APIs, explorando integrações entre frontend e backend com uma arquitetura robusta e eficiente.
+Sistemas Empresariais: Desenvolvimento de um web app em Django para gerenciamento de habilidades dos funcionários, utilizando PostgreSQL para armazenamento de dados. A aplicação inclui autenticação, controle de permissões e um painel administrativo para administração dos registros.
 
-## 🌱 Sempre aprendendo
+## Sempre aprendendo
 
-Busco constantemente aprimorar minhas habilidades, com foco em novas tecnologias e boas práticas de desenvolvimento. Acredito no poder da colaboração e do código aberto para criar soluções inovadoras.
+Exploração de novas tecnologias e boas práticas de desenvolvimento para aprimoramento contínuo.
 
-## 🔗 Conecte-se comigo
+## 🔗 Contato
 
 
 - [Meu LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
