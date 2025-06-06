@@ -16,7 +16,7 @@ Sistemas Empresariais: Desenvolvimento de um web app em Django para gerenciament
 
 Exploração de novas tecnologias e boas práticas de desenvolvimento para aprimoramento contínuo.
 
-## 🔗 Contato
+## Contato
 
 
 - [Meu LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
