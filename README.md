@@ -12,6 +12,8 @@ Desenvolvedor com experiência em backend, frontend e bancos de dados.
 
 Sistemas Empresariais: Desenvolvimento de um web app em Django para gerenciamento de habilidades dos funcionários, utilizando PostgreSQL para armazenamento de dados. A aplicação inclui autenticação, controle de permissões e um painel administrativo para administração dos registros.
 
+- [Disponível aqui](https://github.com/nearo007/InovaTech-ProjetoBrose)
+
 ## Estudo
 
 Exploração de novas tecnologias e boas práticas de desenvolvimento para aprimoramento contínuo.
