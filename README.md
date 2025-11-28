@@ -5,7 +5,7 @@ Desenvolvedor com experiência em backend, frontend e bancos de dados.
 ## Habilidades
 
 - **Linguagens de Programação**: Python, C#, JavaScript
-- **Desenvolvimento Web**: HTML, CSS, Django
+- **Desenvolvimento Web**: HTML, CSS, Django, Flask
 - **Banco de Dados**: PostgreSQL, MongoDB
 
 ## Experiência e Projetos
