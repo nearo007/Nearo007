@@ -30,8 +30,8 @@ Aplicação web corporativa para gestão de matriz de habilidades de funcionári
 ## Competências Técnicas
 
 * **Linguagens de Programação:** Python, C#, JavaScript
-* **Desenvolvimento Web:** Django, Flask, HTML, CSS
-* **Banco de Dados:** PostgreSQL, MongoDB
+* **Desenvolvimento Web:** ExpressJS, Django, Flask, HTML, CSS
+* **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 * **Ferramentas:** Git, GitHub
 
 ## Contato
