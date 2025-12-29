@@ -1,24 +1,39 @@
 # Leandro de Araujo
+Desenvolvedor de Software
 
-Desenvolvedor com experiência em backend, frontend e bancos de dados.
+Profissional com foco em desenvolvimento backend, arquitetura de dados e lógica de programação. Experiência prática na construção de sistemas de gestão, aplicações web e processamento de dados utilizando Python, C# e bancos de dados relacionais e não-relacionais.
 
-## Habilidades
+## Projetos Principais
 
-- **Linguagens de Programação**: Python, C#, JavaScript
-- **Desenvolvimento Web**: HTML, CSS, Django, Flask
-- **Banco de Dados**: PostgreSQL, MongoDB
+### [Projeto Gestão de Ensino](https://github.com/nearo007/Projeto-Gestao-Ensino)
+Sistema desenvolvido para gerenciamento acadêmico, focado na integridade de dados e otimização de consultas.
 
-## Experiência e Projetos
+* **Desenvolvimento:** Arquitetura de banco de dados para gerenciar relacionamentos complexos entre alunos, corpo docente e grade curricular.
+* **Backend:** Implementação de operações CRUD otimizadas e regras de negócio para validação de matrículas e registros.
+* **Tecnologia:** Foco em estruturação de dados e lógica de servidor.
 
-Sistemas Empresariais: Desenvolvimento de um web app em Django para gerenciamento de habilidades dos funcionários, utilizando PostgreSQL para armazenamento de dados. A aplicação inclui autenticação, controle de permissões e um painel administrativo para administração dos registros.
+### [MIDI Project](https://github.com/nearo007/MIDI_project)
+Aplicação voltada para o processamento do protocolo MIDI (Musical Instrument Digital Interface), demonstrando competência em lógica algorítmica e manipulação de dados.
 
-- [Disponível aqui](https://github.com/nearo007/InovaTech-ProjetoBrose)
+* **Desenvolvimento:** Implementação de algoritmos para interpretação e geração de eventos musicais programáticos.
+* **Técnica:** Manipulação direta de estruturas de dados e processamento de sequências.
 
-## Estudo
+## Outros Desenvolvimentos
 
-Exploração de novas tecnologias e boas práticas de desenvolvimento para aprimoramento contínuo.
+### [InovaTech - Projeto Brose](https://github.com/nearo007/InovaTech-ProjetoBrose)
+Aplicação web corporativa para gestão de matriz de habilidades de funcionários.
+
+* Desenvolvimento de sistema completo de autenticação e controle de permissões de usuário.
+* Implementação de painel administrativo integrado ao PostgreSQL para gestão de registros.
+* **Stack:** Django, PostgreSQL.
+
+## Competências Técnicas
+
+* **Linguagens de Programação:** Python, C#, JavaScript
+* **Desenvolvimento Web:** Django, Flask, HTML, CSS
+* **Banco de Dados:** PostgreSQL, MongoDB
+* **Ferramentas:** Git, GitHub
 
 ## Contato
 
-
-- [Meu LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
+* [LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
