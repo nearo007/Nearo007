@@ -5,18 +5,18 @@ Profissional com foco em desenvolvimento backend, arquitetura de dados e lógica
 
 ## Projetos Principais
 
+### [Projeto Teoria Musical](https://github.com/nearo007/MIDI_project)
+Aplicação voltada para o processamento do protocolo MIDI (Musical Instrument Digital Interface), demonstrando competência em lógica algorítmica e manipulação de dados.
+
+* **Desenvolvimento:** Implementação de algoritmos para interpretação e geração de eventos musicais programáticos.
+* **Técnica:** Manipulação direta de estruturas de dados e processamento de sequências.
+  
 ### [Projeto Gestão de Ensino](https://github.com/nearo007/Projeto-Gestao-Ensino)
 Sistema desenvolvido para gerenciamento acadêmico, focado na integridade de dados e otimização de consultas.
 
 * **Desenvolvimento:** Arquitetura de banco de dados para gerenciar relacionamentos complexos entre alunos, corpo docente e grade curricular.
 * **Backend:** Implementação de operações CRUD otimizadas e regras de negócio para validação de matrículas e registros.
 * **Tecnologia:** Foco em estruturação de dados e lógica de servidor.
-
-### [MIDI Project](https://github.com/nearo007/MIDI_project)
-Aplicação voltada para o processamento do protocolo MIDI (Musical Instrument Digital Interface), demonstrando competência em lógica algorítmica e manipulação de dados.
-
-* **Desenvolvimento:** Implementação de algoritmos para interpretação e geração de eventos musicais programáticos.
-* **Técnica:** Manipulação direta de estruturas de dados e processamento de sequências.
 
 ## Outros Desenvolvimentos
 
