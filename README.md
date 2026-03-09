@@ -1,7 +1,7 @@
 # Leandro de Araujo
 Desenvolvedor de Software
 
-Profissional com foco em desenvolvimento backend, arquitetura de dados e lógica de programação. Experiência prática na construção de sistemas de gestão, aplicações web e processamento de dados utilizando Python, C# e bancos de dados relacionais e não-relacionais.
+Profissional com foco em desenvolvimento backend, arquitetura de dados e lógica de programação. Experiência prática na construção de sistemas de gestão, aplicações web e processamento de dados utilizando Python, bancos de dados relacionais e não-relacionais.
 
 ## Projetos Principais
 
