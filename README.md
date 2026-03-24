@@ -3,6 +3,10 @@ Desenvolvedor de Software
 
 Profissional com foco em desenvolvimento backend, arquitetura de dados e lógica de programação. Experiência prática na construção de sistemas de gestão, aplicações web e processamento de dados utilizando Python, JavaScript, bancos de dados relacionais e não-relacionais.
 
+## Foco Atual
+
+Atualmente me preparando para o exame **AWS Certified Cloud Practitioner**, aprofundando conhecimentos em computação em nuvem, serviços AWS e boas práticas de arquitetura cloud.
+
 ## Projetos Principais
 
 ### [Projeto Teoria Musical](https://github.com/nearo007/MIDI_project)
