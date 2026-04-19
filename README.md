@@ -1,43 +1,24 @@
 # Leandro de Araujo
-Desenvolvedor de Software
+**Software Engineering Student @ Unisenai**
 
-Profissional com foco em desenvolvimento backend, arquitetura de dados e lógica de programação. Experiência prática na construção de sistemas de gestão, aplicações web e processamento de dados utilizando Python, JavaScript, bancos de dados relacionais e não-relacionais.
+Focado em construir backends sólidos, escaláveis e arquitetura limpa. Não curto código "mais ou menos" — prefiro seguir padrões de mercado como MVC para garantir que o software seja sustentável.
 
-## Foco Atual
+### O que eu domino:
+- **Backend:** Python (Flask/SQLAlchemy), Node.js (Express) e C#/.NET.
+- **Banco de Dados:** PostgreSQL e MySQL (Modelagem, Migrations e Performance).
+- **Low-level:** C++ com OpenGL (gráficos e motores de jogo).
+- **IoT:** Integração de dispositivos inteligentes via Python (TinyTuya).
 
-Atualmente me preparando para o exame **AWS Certified Cloud Practitioner**, aprofundando conhecimentos em computação em nuvem, serviços AWS e boas práticas de arquitetura cloud.
+---
 
-## Projetos Principais
+### Projetos de Destaque
+* **Skills Manager:** Sistema de gestão acadêmica completo com Flask e PostgreSQL. Foco total em CRUD eficiente e regras de negócio complexas.
+* **Voxel Engine (C++):** Clone de Minecraft desenvolvido do zero para entender o que acontece "debaixo do capô" em renderização e matemática computacional.
+* **MIDI Project:** Manipulação de hardware musical via código Python.
 
-### [Projeto Teoria Musical](https://github.com/nearo007/MIDI_project)
-Aplicação voltada para o processamento do protocolo MIDI (Musical Instrument Digital Interface), demonstrando competência em lógica algorítmica e manipulação de dados.
+### No que acredito:
+Software deve ser robusto. Se não for testável e organizado (MVC), não está pronto. Estou sempre em busca de desafios que exijam raciocínio lógico pesado e otimização.
 
-* **Desenvolvimento:** Implementação de algoritmos para interpretação e geração de eventos musicais programáticos.
-* **Técnica:** Manipulação direta de estruturas de dados e processamento de sequências.
-  
-### [Projeto Gestão de Ensino](https://github.com/nearo007/Projeto-Gestao-Ensino)
-Sistema desenvolvido para gerenciamento acadêmico, focado na integridade de dados e otimização de consultas.
+---
 
-* **Desenvolvimento:** Arquitetura de banco de dados para gerenciar relacionamentos complexos entre alunos, corpo docente e grade curricular.
-* **Backend:** Implementação de operações CRUD otimizadas e regras de negócio para validação de matrículas e registros.
-* **Tecnologia:** Foco em estruturação de dados e lógica de servidor.
-
-## Outros Desenvolvimentos
-
-### [InovaTech - Projeto Brose](https://github.com/nearo007/InovaTech-ProjetoBrose)
-Aplicação web corporativa para gestão de matriz de habilidades de funcionários.
-
-* Desenvolvimento de sistema completo de autenticação e controle de permissões de usuário.
-* Implementação de painel administrativo integrado ao PostgreSQL para gestão de registros.
-* **Stack:** Django, PostgreSQL.
-
-## Competências Técnicas
-
-* **Linguagens de Programação:** Python, JavaScript
-* **Desenvolvimento Web:** Django, Flask, ExpressJS
-* **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-* **Ferramentas:** Git, GitHub
-
-## Contato
-
-* [LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
+[LinkedIn](SEU_LINK_AQUI) | [E-mail](SEU_EMAIL_AQUI) | [Portfólio](SEU_LINK_AQUI)
