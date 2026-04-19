@@ -9,10 +9,4 @@ Focado em desenvolvimento backend e arquitetura limpa.
   
 ---
 
-### Projetos de Destaque
-* **Skills Manager:** Sistema de gestão acadêmica completo com Flask e PostgreSQL. Foco total em CRUD eficiente e regras de negócio.
-* **MIDI Project:** Manipulação de hardware musical via código Python.
-
----
-
 [LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
