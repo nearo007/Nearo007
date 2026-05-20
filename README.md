@@ -1,7 +1,7 @@
 # Leandro de Araujo
 **Software Engineering Student @ Unisenai**
 
-Focado em desenvolvimento backend e arquitetura limpa.
+Focado em desenvolvimento backend.
 
 ---
 
