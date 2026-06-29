@@ -13,10 +13,10 @@ Tenho interesse em arquitetura de sistemas, integração entre serviços e boas 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-F7DF1E?logo=express&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-1E3A8A?logo=prisma&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1E3A8A?logo=prisma&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 
 ![WSL](https://img.shields.io/badge/WSL-F97316?logo=linux&logoColor=white)
