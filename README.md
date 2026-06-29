@@ -1,5 +1,5 @@
 # Leandro de Araujo
-**Software Engineering Student @ Unisenai**
+**Cursando Bacharelado em Engenharia de Software**
 
 Foco em desenvolvimento backend dentro do ecossistema Node.js, com uso de TypeScript e Express para construção de APIs e serviços. Trabalho com sistemas voltados a automações industriais, buscando integrar software com processos e necessidades do ambiente industrial.
 
