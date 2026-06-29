@@ -7,9 +7,8 @@ Tenho interesse em arquitetura de sistemas, integração entre serviços e boas 
 
 ## [LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-a17100?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d3b66?logo=python&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-F7DF1E?logo=express&logoColor=black)
