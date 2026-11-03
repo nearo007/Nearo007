@@ -1,9 +1,7 @@
 # Leandro de Araujo
-**Backend Developer | Cursando Bacharelado em Engenharia de Software**
+**Backend Dev | Bacharelado em Engenharia de Software**
 
-Foco em desenvolvimento backend dentro do ecossistema Node.js, com uso de TypeScript e Express para construção de APIs e serviços. Trabalho com sistemas voltados a automações industriais, buscando integrar software com processos e necessidades do ambiente industrial.
-
-Tenho interesse em arquitetura de sistemas, integração entre serviços e boas práticas de desenvolvimento.
+Foco em desenvolvimento backend dentro do ecossistema Node.js, uso TypeScript para construção de aplicações. Trabalho com sistemas voltados a automações industriais, integrando software com processos e necessidades do ambiente industrial.
 
 ## [LinkedIn](https://www.linkedin.com/in/leandro-araujo-4aa8aa2b9/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-a17100?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-0d3b66?logo=python&logoColor=white)
